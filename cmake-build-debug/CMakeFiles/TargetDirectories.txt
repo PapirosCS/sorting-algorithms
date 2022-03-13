@@ -1,0 +1,3 @@
+C:/Users/Pablo Cabezas/CLionProjects/SortingAlgorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Pablo Cabezas/CLionProjects/SortingAlgorithms/cmake-build-debug/CMakeFiles/SortingAlgorithms.dir
+C:/Users/Pablo Cabezas/CLionProjects/SortingAlgorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
